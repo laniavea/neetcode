@@ -1,3 +1,7 @@
+# t271
+# https://leetcode.com/problems/encode-and-decode-strings/description/
+# https://neetcode.io/problems/string-encode-and-decode
+
 def main():
     class Solution:
         def encode(self, strs: list[str]) -> str:
