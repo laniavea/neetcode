@@ -65,5 +65,4 @@ fn main() {
     assert_eq!(Solution::largest_rectangle_area(vec![2, 1, 5, 6, 2, 3]), 10);
     assert_eq!(Solution::largest_rectangle_area(vec![2, 4]), 4);
     assert_eq!(Solution::largest_rectangle_area(vec![2, 1, 2]), 3)
-
 }
